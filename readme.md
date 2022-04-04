@@ -1,5 +1,7 @@
 # Ricomida website
 
+It doesn't include images
+
 Requirements:
 
 - Bootstrap 5.1
