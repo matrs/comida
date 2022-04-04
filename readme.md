@@ -1,6 +1,6 @@
 # Ricomida website
 
-It doesn't include images
+It doesn't include images.
 
 Requirements:
 
