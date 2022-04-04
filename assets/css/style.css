@@ -1,0 +1,86 @@
+body {
+  font-family: "Cabin";
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 700;
+}
+.navbar-brand,
+span,
+.brand-foot {
+  font-family: "Lobster";
+}
+
+.main-dish-title {
+  font-size: large;
+}
+
+.main-dish-descr {
+  font-size: 0.7em;
+}
+
+.carousel-indicators [data-bs-target] {
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  background-color: black;
+  margin-bottom: 2em;
+}
+
+.carousel-indicators {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.carousel-item {
+  height: 260px;
+}
+
+.btn-my {
+  background-color: white;
+  border-color: #ddd;
+  font-size: 0.6em;
+  margin-right: 1em;
+}
+
+ul {
+  list-style-type: none;
+}
+
+footer {
+  background-color: #dc3545;
+  color: white;
+}
+
+.foot-btn {
+  border-color: #dddddd;
+  color: white;
+  font-size: 0.8em;
+}
+
+.brand-foot {
+  background-color: black;
+}
+
+@media (min-width: 1200px) {
+  .carousel-item {
+    height: 300px;
+  }
+  .main-dish-title {
+    font-size: x-large;
+  }
+}
+
+@media (max-width: 990px) {
+  .carousel-item {
+    height: 200px;
+  }
+}
+
+@media (min-width: 600px) and (max-width: 990px) {
+  .main-dish-title {
+    font-size: medium;
+  }
+}
