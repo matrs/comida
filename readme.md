@@ -3,5 +3,5 @@
 Requirements:
 
 - Bootstrap 5.1
-- jqery 3.6.0
+- jquery 3.6.0
 - popper.js (tooltips for BS)
